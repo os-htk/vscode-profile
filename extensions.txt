@@ -1,0 +1,8 @@
+ms-ceintl.vscode-language-pack-ja
+amazonwebservices.aws-toolkit-vscode
+ms-python.python
+charliermarsh.ruff
+redhat.vscode-yaml
+tamasfe.even-better-toml
+catppuccin.catppuccin-vsc
+catppuccin.catppuccin-vsc-icons
